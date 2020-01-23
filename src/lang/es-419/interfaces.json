@@ -477,8 +477,8 @@
 			"force_lowercase_comment": "Asegúrese de que el slug está en minúsculas",
 			"mirrored_field": "Campo Espejado",
 			"mirrored_field_comment": "Mantener el slug actualizado con otro campo (de texto)",
-			"only_on_create": "Only on Create",
-			"only_on_create_comment": "Allow the slug to be edited only when creating a new item"
+			"only_on_create": "Sólo en Crear",
+			"only_on_create_comment": "Permitir la edición del slug sólo cuando se crea un nuevo elemento"
 		},
 		"sort": {
 			"sort": "Ordenar"
