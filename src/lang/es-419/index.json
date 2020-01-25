@@ -429,7 +429,7 @@
   "project_name": "Nombre del Proyecto",
   "project_not_configured": "Proyecto no configurado",
   "read": "Leer",
-  "readable_fields": "Campos editables",
+  "readable_fields": "Campos lectura",
   "readable_fields_copy": "Seleccione los campos que el usuario puede ver",
   "readonly": "Sólo lectura",
   "regex": "RegEx",
